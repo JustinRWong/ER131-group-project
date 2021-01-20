@@ -1,6 +1,6 @@
 # Indirect Methane Predictions
 
-This is our final project for ENERES 131: Data, Environment, and Society taught by Duncan Callaway and Jessica Katz in Fall 2020. We applied statistical and analytical methods to build, estimate and interpret models that describe phenomena in the broad area of energy and environmental decision-making.
+This is our final project for ENERES 131: Data, Environment, and Society taught by Duncan Callaway and Jessica Katz in Fall 2020. In this course, we applied statistical and analytical methods to build, estimate and interpret models that describe phenomena in the broad area of energy and environmental decision-making.
 
 
 ## Abstract
