@@ -32,9 +32,11 @@ By incorporating quantitative analysis and modeling methods, we are able to capt
 
 
 ## Policy Recommendation
-Based on the datasets, we observed a strong relationship between EV vehicles, population, air pollutants(including methane), and EV charging stations. Because of this, I suggest the (following policy)[https://docs.google.com/document/d/1zvaZrbekDWHQp6XLPeW_q_MJ188bg3KSs6uURG3o6Lc/edit?usp=sharing]:
+Based on the datasets, we observed a strong relationship between EV vehicles, population, air pollutants(including methane), and EV charging stations. Because of this, I suggest the following policy:
 
 **That the Plug-In Electric Vehicle (PEVs) Infrastructure program prioritizes counties with low “Charging Stations Per Capita” and expands the Clean Vehicle Rebate Project (CVRP) to offer private charging station rebates.**
+
+Read more [here](https://docs.google.com/document/d/1zvaZrbekDWHQp6XLPeW_q_MJ188bg3KSs6uURG3o6Lc/edit?usp=sharing).
 
 
 ## Pivots
