@@ -3,6 +3,13 @@
 This is our final project for ENERES 131: Data, Environment, and Society taught by Duncan Callaway and Jessica Katz in Fall 2020. In this course, we applied statistical and analytical methods to build, estimate and interpret models that describe phenomena in the broad area of energy and environmental decision-making.
 
 
+## Contributors
+- Sara Ding
+- Devon Madeksiak
+- Michelle Kaganovsky
+- Justin Wong
+
+
 ## Abstract
 After pivoting away from the original methane prediction question we began to focus on other corollaries to methane emissions. Some of the connections between methane and the new prediction problems include: methane and CO are precursors to create the tropospheric ozone (a potent greenhouse gas and air pollutant that impacts food and water supplies) as well as public health effects that result from pollutants like methane. We incorporated various models such as Lasso, Ridge, Linear, and Gradient Boosting to model the datasets, along with using cross-validation to tune hyperparameters such as learning rate, or number of boosts to help us solve these prediction problems. Prediction problems include:
 
@@ -55,11 +62,5 @@ See "Input Data Description" for more details.
 - `EPA_gridded_methane_EDA.ipynb`: explorees a GIS dataset that displays geopandas plots of different atmospheric gases, as estimated from a bottoms-up approach.
 - `asthma.ipynb`: first iteration of work done for the asthma prevalence prediction question.
 - `vista_ca.ipynb`: where much of the data processing was done. 
-
-
-## Contributors
-- Sara Ding
-- Devon Madeksiak
-- Michelle Kaganovsky
-- Justin Wong
-
+- `cattle_v_tog (v2).ipynb`: second iteration of work done for the cattle prediction question.
+- `flood_station.ipynb`: data visualization of NOAA flood stations in North America
