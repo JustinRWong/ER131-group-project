@@ -39,6 +39,12 @@ However, we found this was infeasible because gathering data for such prediction
 As a result, we switched to focus on methane emissions for reasons pointed out in the Background section above. We generalized our processed dataset(based in California countiees)  such that it is easy to add colummns based on independent data sets, such as the number of EV charging stations, populations, GDP per capita, Vista stations nearest to that county, and asthma prevalence. The thought process was to allow reusabilitity in our method so that other states/regions could follow a similar approach to robustly predict methane emissions by using data that already is collected to reduce the cost of meeasuring atmospheric methane. 
 
 
+## Policy Recommendation
+Based on the datasets, we observed a strong relationship between EV vehicles, population, air pollutants(including methane), and EV charging stations. Because of this, I suggest the (following policy)[https://docs.google.com/document/d/1zvaZrbekDWHQp6XLPeW_q_MJ188bg3KSs6uURG3o6Lc/edit?usp=sharing]:
+
+** That the Plug-In Electric Vehicle (PEVs) Infrastructure program prioritizes counties with low “Charging Stations Per Capita” and expands the Clean Vehicle Rebate Project (CVRP) to offer private charging station rebates. **
+
+
 ## Data Files
 
 All data files can be found in [this Google Drive](https://drive.google.com/drive/folders/1gVO-JZjgHuoyeFx5ycSWdZOTDbbPbPbB?usp=sharing).
