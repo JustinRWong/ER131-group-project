@@ -31,18 +31,18 @@ For this project we hoped to use data collected from various Satellites to predi
 By incorporating quantitative analysis and modeling methods, we are able to capture trends and provide a numerical value as to what extent these trends may change over time. For example, we incorporated records of livestock population, particularly cattle, because of its significant contribution to enteric fermentation (a form of methane emission) in the United States. Cattle not only contributes to over 95% of enteric fermentation but almost 20% of total methane emissions in the U.S (Mangino). We also incorporated data on the prevalence of Asthma because after researching our topic, we learned that living near facilities such as power plants, refineries and farms has links to respiratory health effects, such as Asthma. Additionally, we have incorporated data on the specific coordinates of these counties to produce detailed visualizations. Incorporating quantitative analysis helped quantify the predicted amount of CO ton/day the county produces, and it helped determine which features have the greatest predictive power which features can be excluded. The model's most predictive features were population, area of land, PM10, PM2.5, GDP, and number of Non-Zero Emissions. Predicting CO helps determine where to focus adding EV fueling stations, and possibly states can use part of their budget to subsidies electric vehicles in places with high predicted to help reduce CO, CH4, and tropospheric ozone pollutant.
 
 
+## Policy Recommendation
+Based on the datasets, we observed a strong relationship between EV vehicles, population, air pollutants(including methane), and EV charging stations. Because of this, I suggest the (following policy)[https://docs.google.com/document/d/1zvaZrbekDWHQp6XLPeW_q_MJ188bg3KSs6uURG3o6Lc/edit?usp=sharing]:
+
+**That the Plug-In Electric Vehicle (PEVs) Infrastructure program prioritizes counties with low “Charging Stations Per Capita” and expands the Clean Vehicle Rebate Project (CVRP) to offer private charging station rebates.**
+
+
 ## Pivots
 Initially, we wanted to predict which coastal communities and cities were most likely to be affected (at various seveerities) by global sea leveel rise.
 
 However, we found this was infeasible because gathering data for such prediction was difficult and existing models used a bottom-up physics based modeling approach, which was far more complex than anticipated. We had hoped we could develop a machine learning model to replicate such a physics-based simulation model, but lack of reliable and consistent data on a national level was the main blocker. 
 
 As a result, we switched to focus on methane emissions for reasons pointed out in the Background section above. We generalized our processed dataset(based in California countiees)  such that it is easy to add colummns based on independent data sets, such as the number of EV charging stations, populations, GDP per capita, Vista stations nearest to that county, and asthma prevalence. The thought process was to allow reusabilitity in our method so that other states/regions could follow a similar approach to robustly predict methane emissions by using data that already is collected to reduce the cost of meeasuring atmospheric methane. 
-
-
-## Policy Recommendation
-Based on the datasets, we observed a strong relationship between EV vehicles, population, air pollutants(including methane), and EV charging stations. Because of this, I suggest the (following policy)[https://docs.google.com/document/d/1zvaZrbekDWHQp6XLPeW_q_MJ188bg3KSs6uURG3o6Lc/edit?usp=sharing]:
-
-** That the Plug-In Electric Vehicle (PEVs) Infrastructure program prioritizes counties with low “Charging Stations Per Capita” and expands the Clean Vehicle Rebate Project (CVRP) to offer private charging station rebates. **
 
 
 ## Data Files
